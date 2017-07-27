@@ -1,0 +1,2 @@
+# ArcadeBot
+Discord ArcadeBot
